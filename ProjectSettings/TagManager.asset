@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - boss
+  - moc
+  - quanMan
+  - coint
+  - die
+  - dan
+  - boss1
+  - danBoss
+  - button
+  - Ladder
+  - Platform
+  - thang
+  - health
+  - key
+  - ruby
+  - box
+  - boxBoss
+  - box1
+  - dichchuyen
+  - openKey
+  - boxdieboss
+  - box2
+  - dichchuyen1
+  - boxkey
+  - danBoss1
+  - box3
+  - box4
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
